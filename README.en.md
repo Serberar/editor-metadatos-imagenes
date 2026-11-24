@@ -2,7 +2,7 @@
 
 [Español](README.md) · **English**
 
-[![Version](https://img.shields.io/github/v/release/Serberar/editor-metadatos-imagenes?label=version)](https://github.com/Serberar/editor-metadatos-imagenes/releases/latest)
+[![CI](https://github.com/Serberar/editor-metadatos-imagenes/actions/workflows/ci.yml/badge.svg)](https://github.com/Serberar/editor-metadatos-imagenes/actions/workflows/ci.yml) [![Version](https://img.shields.io/github/v/release/Serberar/editor-metadatos-imagenes?label=version)](https://github.com/Serberar/editor-metadatos-imagenes/releases/latest)
 
 Windows desktop app (Python and Tkinter) that reads, edits and adds image metadata, and copies a field (for example `Comment`) from one image to many others in one go.
 
