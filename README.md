@@ -64,6 +64,10 @@ python test_editor.py
 - No edita GPS ni los datos de cámara del EXIF.
 - Copiar un hash o firma (como `ci1:...`) a otra imagen no lo hace válido para esa imagen.
 
+## Licencia
+
+Publicado con licencia [MIT](LICENSE).
+
 ## Autor
 
 Sergio Bernabé
