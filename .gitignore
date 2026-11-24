@@ -9,3 +9,4 @@ dist/
 *.webp
 *.tif
 *.tiff
+!docs/*.png
