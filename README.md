@@ -1,6 +1,6 @@
 # Editor de metadatos de imágenes
 
-[![Versión](https://img.shields.io/github/v/release/Serberar/editor-metadatos?label=versi%C3%B3n)](https://github.com/Serberar/editor-metadatos/releases/latest)
+[![Versión](https://img.shields.io/github/v/release/Serberar/editor-metadatos?label=versi%C3%B3n)](https://github.com/Serberar/editor-metadatos-imagenes/releases/latest)
 
 Programa de escritorio para Windows (Python y Tkinter) que lee, edita y añade metadatos de imágenes, y copia un campo (por ejemplo `Comment`) de una imagen a muchas otras de una vez.
 
@@ -16,7 +16,7 @@ Programa de escritorio para Windows (Python y Tkinter) que lee, edita y añade m
 
 ## Descarga
 
-**[Descargar editor_metadatos.exe](https://github.com/Serberar/editor-metadatos/releases/latest/download/editor_metadatos.exe)** (Windows, no necesita Python).
+**[Descargar editor_metadatos.exe](https://github.com/Serberar/editor-metadatos-imagenes/releases/latest/download/editor_metadatos.exe)** (Windows, no necesita Python).
 
 Windows puede mostrar un aviso de SmartScreen porque el ejecutable no está firmado: pulsa *Más información* > *Ejecutar de todas formas*.
 
