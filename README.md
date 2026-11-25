@@ -51,7 +51,7 @@ pip install pyinstaller
 pyinstaller --onefile --windowed --name editor_metadatos editor.py
 ```
 
-El ejecutable queda en `dist/editor_metadatos.exe`. Se abre con doble clic o arrastrando una imagen encima.
+El ejecutable queda en la carpeta `dist/`. Se abre con doble clic o arrastrando una imagen encima.
 
 ## Pruebas
 
