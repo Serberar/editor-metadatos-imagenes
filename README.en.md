@@ -20,7 +20,7 @@ The interface is in Spanish.
 
 ## Download
 
-**[Download editor_metadatos.exe](https://github.com/Serberar/editor-metadatos-imagenes/releases/latest/download/editor_metadatos.exe)** (Windows, no Python needed).
+The Windows program is in the *Releases* section of this repository (no Python needed).
 
 Windows may show a SmartScreen warning because the executable is not signed: click *More info* > *Run anyway*.
 

@@ -18,7 +18,7 @@ Programa de escritorio para Windows (Python y Tkinter) que lee, edita y añade m
 
 ## Descarga
 
-**[Descargar editor_metadatos.exe](https://github.com/Serberar/editor-metadatos-imagenes/releases/latest/download/editor_metadatos.exe)** (Windows, no necesita Python).
+El programa para Windows está en el apartado *Releases* de este repositorio (no necesita Python).
 
 Windows puede mostrar un aviso de SmartScreen porque el ejecutable no está firmado: pulsa *Más información* > *Ejecutar de todas formas*.
 
