@@ -2,8 +2,6 @@
 
 **Español** · [English](README.en.md)
 
-[![CI](https://github.com/Serberar/editor-metadatos-imagenes/actions/workflows/ci.yml/badge.svg)](https://github.com/Serberar/editor-metadatos-imagenes/actions/workflows/ci.yml) [![Versión](https://img.shields.io/github/v/release/Serberar/editor-metadatos-imagenes?label=versi%C3%B3n)](https://github.com/Serberar/editor-metadatos-imagenes/releases/latest)
-
 Programa de escritorio para Windows (Python y Tkinter) que lee, edita y añade metadatos de imágenes, y copia un campo (por ejemplo `Comment`) de una imagen a muchas otras de una vez.
 
 ## Qué hace
@@ -24,7 +22,7 @@ Windows puede mostrar un aviso de SmartScreen porque el ejecutable no está firm
 
 ## Ejecutar desde el código
 
-Requiere Python 3.10 o superior y [Pillow](https://pypi.org/project/pillow/):
+Requiere Python 3.10 o superior y Pillow:
 
 ```bash
 pip install -r requirements.txt
